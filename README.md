@@ -1,5 +1,7 @@
 # Preview
 #  
+I coded coin flip and calculator services that use the PydBus Session bus feature. Then I developed an application with these services.
+#  
 App video
 #
 https://user-images.githubusercontent.com/56116535/185761874-a2d1eab7-153e-477b-80d2-730520957e40.mp4  
